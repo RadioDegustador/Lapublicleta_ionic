@@ -11,14 +11,14 @@
 
   "MAP_TITLE": "Mapa",
 
-  "TUTORIAL_SLIDE1_TITLE": "Bienvenido/a al Ionic Super Starter",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "El <b>Ionic Super Starter</b> es un starter de Ionic completo con muchas páginas preconstruidas y mejores prácticas.",
+  "TUTORIAL_SLIDE1_TITLE": "Bienvenido/a a La Publicleta",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "La <b>Publicleta</b> es la app hecha para ciclistas con mayor presencia en tu ciudad, que te brinda utilidades de reporte de robor y te indica las mejores rutas según tu recorrido.",
 
-  "TUTORIAL_SLIDE2_TITLE": "Cómo usar el Super Starter",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Monta los varios tipos de página que quieras y quita los que no. Hemos incluido muchas estructuras de página comunes en apps móviles, como páginas de inicio de sesión y registro, pestañas, y esta página de tutorial.",
+  "TUTORIAL_SLIDE2_TITLE": "Cómo usar La Publicleta",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Ingresa, regista tu bici ... a partir de ahora tienes una herramienta en tu celular que te permite denunciar un accidente/robo directamente a las autoridades, calcular la mejor ruta para ir a un punto A al B de tu ciudad y guardar las estadísticas de velocidad promedio, distancia y tiempo de tus viajes",
 
   "TUTORIAL_SLIDE3_TITLE": "Empezando",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "¿Necesitas ayuda? Échale un vistazo al README del Super Starter para ver el tutorial completo.",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Registrate, ingresa tu nombre y apellido; tambíén registra tu bici con su número de marco, color y modelo. ",
 
   "SETTINGS_TITLE": "Ajustes",
   "SETTINGS_OPTION1": "Opción 1",
